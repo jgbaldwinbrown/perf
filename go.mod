@@ -1,4 +1,4 @@
-module golang.org/x/perf
+module github.com/jgbaldwinbrown/perf
 
 go 1.15
 
